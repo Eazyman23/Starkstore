@@ -1,0 +1,106 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Jun 2023 14:38:28 at https://www.nike.com/w/mens-shoes-nik1zy7ok +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.nike.com/w/mens-shoes-nik1zy7ok -O1 "C:\Users\USER\Downloads\STARKSTORE SHOES" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+16:06:03	Warning: 	Permanent Redirect for https://www.nike.com/w/@nikeInlineCookieCustomEvent/
+16:06:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nike.com/w/@nikeInlineCookieCustomEvent/ and https://www.nike.com/w/@nikeinlinecookiecustomevent/
+16:06:03	Warning: 	Warning moved treated for https://www.nike.com/w/@nikeInlineCookieCustomEvent/ (real one is https://www.nike.com/w/@nikeinlinecookiecustomevent/)
+16:06:03	Warning: 	Permanent Redirect for https://www.nike.com/w/@nikePrivacyCoreCustomEvent/
+16:06:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nike.com/w/@nikePrivacyCoreCustomEvent/ and https://www.nike.com/w/@nikeprivacycorecustomevent/
+16:06:03	Warning: 	Warning moved treated for https://www.nike.com/w/@nikePrivacyCoreCustomEvent/ (real one is https://www.nike.com/w/@nikeprivacycorecustomevent/)
+16:06:03	Error: 	"Bad Request" (400) at link https://www.nike.com/w/`https://api.nike.com/privacy_compliance/context_frames/v2/experience/${t}/language/${e}` (from https://www.nike.com/static/privacy-core/public/privacy-core.js)
+16:06:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/src/initialize-nike-shop.js (from https://www.nike.com/assets/experience/shop-components/public/nike-shop-client.js)
+16:06:03	Error: 	"Not Found" (404) at link https://www.nike.com/.yarn/cache/exenv-npm-1.2.2-eeb9069149-a894f3b60a.zip/node_modules/exenv/index.js (from https://www.nike.com/assets/experience/shop-components/public/nike-shop-client.js)
+16:06:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/src/bootstrap-nike-shop.js (from https://www.nike.com/assets/experience/shop-components/public/nike-shop-client.js)
+16:06:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/src/release.js (from https://www.nike.com/assets/experience/shop-components/public/nike-shop-client.js)
+16:06:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/src/client.js (from https://www.nike.com/assets/experience/shop-components/public/nike-shop-client.js)
+16:06:03	Error: 	"Forbidden" (403) at link https://secure-store.nike.com/nikestore/html/img/loading.gif (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.css)
+16:06:03	Warning: 	Permanent Redirect for https://www.nike.com/w/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/
+16:06:03	Warning: 	Redirected link is identical because of 'URL Hack' option: https://www.nike.com/w/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ and https://www.nike.com/w/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/
+16:06:03	Warning: 	Warning moved treated for https://www.nike.com/w/ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/ (real one is https://www.nike.com/w/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/lib/elliptic.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/istanbul test _mocha --reporter=spec test/index.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/cjs/index.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/webpack --config config/webpack.client-cn.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/webpack --config config/webpack.client.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/webpack --config config/webpack.dev.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/webpack --config config/webpack.lambda.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node%20./scripts/navfetch.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node%20./scripts/labelsfetch.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node%20./scripts/urlfetch.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node%20./scripts/locfetch.js%20&&%20node%20scripts/webshelllocmappings.js%20&&%20node%20./scripts/webshellcountrynames.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node ./scripts/g11n.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:06:08	Error: 	"Not Found" (404) at link https://www.nike.com/w/node%20scripts/webshelllocmappings.js%20&&%20node%20./scripts/webshellcountrynames.js%20&&%20node%20./scripts/webshellcurrencymappings.js%20&&%20node%20./scripts/webshellmerchgroupmappings.js (from https://www.nike.com/assets/dotcom/nav/4.62.2/dotcom-nav-client.js)
+16:12:07	Error: 	"Not Found" (404) at link https://www.nike.com/w/rory-mcilroy-gqsk (from https://www.nike.com/w/golf-23q9w)
+16:39:20	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-slim-golf-polos-23q9wz6gnxjz9uaqmznik1 (from https://www.nike.com/w/mens-golf-23q9wznik1)
+16:42:15	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-nike-by-you-basketball-shoes-3glsmz6ealhznik1zy7ok (from https://www.nike.com/w/mens-nike-by-you-shoes-6ealhznik1zy7ok)
+16:44:33	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-tracksuit-bottoms-adp0nznik1 (from https://www.nike.com/w/mens-air-max-shoes-a6d8hznik1zy7ok)
+16:50:38	Error: 	"Not Found" (404) at link https://www.nike.com/w/hats-visors-headbands-skateboarding-52r49z8mfrf (from https://www.nike.com/w/mens-skateboarding-shoes-8mfrfznik1zy7ok)
+16:54:22	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-tracksuit-sets-2qxioznik1 (from https://www.nike.com/w/mens-clothing-6ymx6znik1)
+17:03:42	Error: 	"Not Found" (404) at link https://www.nike.com/w/new-tracksuits-1ll2wz3n82y (from https://www.nike.com/w/mens-pants-tights-2kq19znik1)
+17:10:56	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-weightlifting-clothing-5e1x6z6ymx6z8d90q (from https://www.nike.com/w/womens-sale-3yaepz5e1x6)
+17:23:03	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nike.com/w/womens-cycling-clothing-5e1x6z6ymx6zavn8e (from https://www.nike.com/w/womens-clothing-5e1x6z6ymx6)
+17:38:18	Error: 	"Not Found" (404) at link https://www.nike.com/w/new-kids-running-37v7jz3n82yzv4dh (from https://www.nike.com/w/kids-best-76m50zv4dh)
+17:44:04	Error: 	"Not Found" (404) at link https://www.nike.com/w/baby-toddler-kids-jerseys-2j488z3a41ezv4dh (from https://www.nike.com/w/baby-toddler-kids-shoes-2j488zv4dhzy7ok)
+17:45:09	Error: 	"Not Found" (404) at link https://www.nike.com/w/nike-by-you-basketball-shoes-3glsmz6ealhzy7ok (from https://www.nike.com/w/kids-basketball-shoes-3glsmzv4dhzy7ok)
+18:21:58	Error: 	"Not Found" (404) at link https://www.nike.com/w/static/chunks/318-a384e581e83af05f5473.js (from https://www.nike.com/assets/experience/dotcom-browse/app/_next/static/EZa6FMvHLiKD_4SoslW96/_buildManifest.js)
+18:21:58	Error: 	"Not Found" (404) at link https://www.nike.com/w/static/chunks/869-7f5d4131cb76d1467c43.js (from https://www.nike.com/assets/experience/dotcom-browse/app/_next/static/EZa6FMvHLiKD_4SoslW96/_buildManifest.js)
+18:21:58	Error: 	"Not Found" (404) at link https://www.nike.com/w/static/css/471b17547d1d72b59be0.css (from https://www.nike.com/assets/experience/dotcom-browse/app/_next/static/EZa6FMvHLiKD_4SoslW96/_buildManifest.js)
+18:21:58	Warning: 	Moved Permanently for https://www.nike.com/w/node_modules/
+18:21:58	Warning: 	File has moved from https://www.nike.com/w/node_modules/ to https://www.nike.com/w/
+18:21:58	Error: 	"Bad Request" (400) at link https://www.googletagmanager.com/gtm.js?id= (from https://www.nike.com/assets/measure/data-capture/mc.js)
+18:21:58	Error: 	"Not Found" (404) at link https://www.nike.com/w/src/index.js (from https://www.nike.com/assets/measure/data-capture/mc.js)
+18:22:03	Warning: 	Moved Permanently for https://www.nike.com/w/npm run clean && npm run build:prod && npm publish build/
+18:22:03	Warning: 	File has moved from https://www.nike.com/w/npm run clean && npm run build:prod && npm publish build/ to https://www.nike.com/w/
+18:22:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/reports/junit/junit.xml (from https://www.nike.com/assets/measure/data-capture/mc.js)
+18:22:03	Error: 	"Not Found" (404) at link https://www.nike.com/w/reports/junit/ (from https://www.nike.com/assets/measure/data-capture/mc.js)
+18:22:03	Warning: 	Moved Permanently for https://www.nike.com/w/@nikeinlinecookiecustomevent/
+18:22:03	Warning: 	File has moved from https://www.nike.com/w/@nikeinlinecookiecustomevent/ to https://www.nike.com/w/
+18:22:03	Warning: 	Moved Permanently for https://www.nike.com/w/@nikeprivacycorecustomevent/
+18:22:03	Warning: 	File has moved from https://www.nike.com/w/@nikeprivacycorecustomevent/ to https://www.nike.com/w/
+18:22:03	Warning: 	Moved Permanently for https://www.nike.com/w/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/
+18:22:03	Warning: 	File has moved from https://www.nike.com/w/abcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyz0123456789+/ to https://www.nike.com/w/
+18:24:01	Error: 	"Not Found" (404) at link https://www.nike.com/w/black-stefan-janoski-shoes-90poyz9i3pxzy7ok (from https://www.nike.com/w/new-skateboarding-3n82yz8mfrf)
+18:39:13	Error: 	"Not Found" (404) at link https://www.nike.com/w/kyrie-irving-892qa (from https://www.nike.com/w/nba-1vofi)
+18:47:38	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nike.com/w/reflective-running-clothing-37v7jz6ymx6z7w6g3 (from https://www.nike.com/w/running-clothing-37v7jz6ymx6)
+18:48:25	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-court-tennis-shoes-53hc8z5e1x6zed1qzy7ok (from https://www.nike.com/w/tennis-shoes-ed1qzy7ok)
+18:49:23	Error: 	"Forbidden" (403) at link https://www.nike.com/w/mens-best-joggers-sweatpants-76m50zaepf0znik1 (from https://www.nike.com/w/mens-best-pants-tights-2kq19z76m50znik1)
+19:11:11	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-soccer-tracksuits-1gdj0z1ll2wz5e1x6 (from https://www.nike.com/w/womens-nike-by-you-soccer-shoes-1gdj0z5e1x6z6ealhzy7ok)
+19:12:20	Warning: 	Retry after error -5 (error:00000005:lib(0):func(0):DH lib) at link https://www.nike.com/w/womens-red-tennis-shoes-3abn9z5e1x6zed1qzy7ok (from https://www.nike.com/w/womens-tennis-shoes-5e1x6zed1qzy7ok)
+19:15:45	Warning: 	Retry after error 502 () at link https://www.nike.com/w/womens-cycling-clothing-5e1x6z6ymx6zavn8e (from https://www.nike.com/w/womens-clothing-5e1x6z6ymx6)
+19:21:59	Error: 	"Not Found" (404) at link https://www.nike.com/w/kids-skateboarding-8mfrfzv4dh (from https://www.nike.com/w/kids-v4dh)
+19:24:45	Error: 	"Not Found" (404) at link https://www.nike.com/w/kyrie-irving-shoes-892qazy7ok (from https://www.nike.com/w/girls-basketball-shoes-3aqegz3glsmzy7ok)
+19:28:45	Error: 	"Not Found" (404) at link https://www.nike.com/w/boys-compression-baselayer-1onraz4pwb (from https://www.nike.com/w/boys-tops-t-shirts-1onraz9om13)
+19:32:51	Error: 	"Not Found" (404) at link https://www.nike.com/w/boys-skateboarding-accessories-equipment-1onraz8mfrfzawwpw (from https://www.nike.com/w/boys-accessories-equipment-1onrazawwpw)
+19:33:01	Error: 	"Not Found" (404) at link https://www.nike.com/w/girls-skateboarding-accessories-equipment-3aqegz8mfrfzawwpw (from https://www.nike.com/w/girls-accessories-equipment-3aqegzawwpw)
+19:33:07	Error: 	"Not Found" (404) at link https://www.nike.com/w/skateboarding-slip-on-shoes-8mfrfzidgozy7ok (from https://www.nike.com/w/skateboarding-accessories-equipment-8mfrfzawwpw)
+19:34:04	Error: 	"Not Found" (404) at link https://www.nike.com/w/hats-visors-headbands-red-baseball-3abn9z52r49z99fch (from https://www.nike.com/w/hats-visors-headbands-baseball-52r49z99fch)
+19:35:12	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-multi-ground-soccer-shoes-1gdj0z2pudtznik1zy7ok (from https://www.nike.com/w/mens-soccer-accessories-equipment-1gdj0zawwpwznik1)
+19:36:22	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-jordan-boots-37eefz9uquxznik1 (from https://www.nike.com/w/mens-acg-boots-93bsdz9uquxznik1)
+19:38:10	Error: 	"Not Found" (404) at link https://www.nike.com/w/baseball-bags-and-backpacks-99fchz9xy71 (from https://www.nike.com/w/baseball-shoes-99fchzy7ok)
+19:40:16	Error: 	"Not Found" (404) at link https://www.nike.com/w/nike-epic-react-shoes-5q8fuzy7ok (from https://www.nike.com/w/react-shoes-7cmrozy7ok)
+19:40:16	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-kyrie-irving-shoes-892qaznik1zy7ok (from https://www.nike.com/w/zoom-air-shoes-8y8c6zy7ok)
+19:40:42	Error: 	"Not Found" (404) at link https://www.nike.com/w/static/chunks/869-ab5351c2a2771d24bb86.js (from https://www.nike.com/assets/experience/dotcom-browse/app/_next/static/8Pgm8nTfF2yUEEePd7YZW/_buildManifest.js)
+19:42:53	Error: 	"Not Found" (404) at link https://www.nike.com/w/boys-skateboarding-1onraz8mfrf (from https://www.nike.com/w/boys-1onra)
+19:43:05	Error: 	"Not Found" (404) at link https://www.nike.com/w/girls-skateboarding-3aqegz8mfrf (from https://www.nike.com/w/girls-3aqeg)
+19:46:54	Error: 	"Not Found" (404) at link https://www.nike.com/w/big-kids-baseball-jerseys-3a41ez99fchzagibjzv4dh (from https://www.nike.com/w/kids-baseball-jerseys-3a41ez99fchzv4dh)
+19:48:21	Warning: 	Retry after error 502 () at link https://www.nike.com/w/reflective-running-clothing-37v7jz6ymx6z7w6g3 (from https://www.nike.com/w/running-clothing-37v7jz6ymx6)
+19:50:16	Warning: 	Retry after error 502 (Bad Gateway) at link https://www.nike.com/w/tcu-horned-frogs-2yiiy (from https://www.nike.com/w/college-teams-2wq2g)
+19:51:42	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-lebron-shorts-38fphz7y57xznik1 (from https://www.nike.com/w/lebron-shorts-38fphz7y57x)
+19:54:40	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-lacrosse-clothing-4nvmrz5e1x6z6ymx6 (from https://www.nike.com/w/womens-lacrosse-4nvmrz5e1x6)
+19:55:52	Error: 	"" (502) after 2 retries at link https://www.nike.com/w/womens-cycling-clothing-5e1x6z6ymx6zavn8e (from https://www.nike.com/w/womens-clothing-5e1x6z6ymx6)
+19:56:36	Error: 	"Not Found" (404) at link https://www.nike.com/w/kids-skateboarding-accessories-equipment-8mfrfzawwpwzv4dh (from https://www.nike.com/w/kids-accessories-equipment-awwpwzv4dh)
+19:58:00	Error: 	"Not Found" (404) at link https://www.nike.com/w/jordan-boots-37eefz9uqux (from https://www.nike.com/w/acg-boots-93bsdz9uqux)
+19:58:02	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-black-baseball-jerseys-3a41ez5e1x6z90poyz99fch (from https://www.nike.com/w/black-baseball-jerseys-3a41ez90poyz99fch)
+19:58:02	Error: 	"Not Found" (404) at link https://www.nike.com/w/womens-blue-baseball-jerseys-3a41ez5e1x6z8hfx3z99fch (from https://www.nike.com/w/blue-baseball-jerseys-3a41ez8hfx3z99fch)
+19:59:13	Error: 	"" (502) after 2 retries at link https://www.nike.com/w/reflective-running-clothing-37v7jz6ymx6z7w6g3 (from https://www.nike.com/w/running-clothing-37v7jz6ymx6)
+19:59:19	Warning: 	Retry after error 502 () at link https://www.nike.com/w/tcu-horned-frogs-2yiiy (from https://www.nike.com/w/college-teams-2wq2g)
+19:59:49	Error: 	"Not Found" (404) at link https://www.nike.com/w/mens-down-fill-vests-25eqpz5mq3hznik1 (from https://www.nike.com/w/down-fill-vests-25eqpz5mq3h)
+20:00:13	Error: 	"" (502) after 2 retries at link https://www.nike.com/w/tcu-horned-frogs-2yiiy (from https://www.nike.com/w/college-teams-2wq2g)
+
+HTTrack Website Copier/3.49-2 mirror complete in 5 hours 21 minutes 47 seconds : 5096 links scanned, 5011 files written (2911199358 bytes overall) [526864485 bytes received at 27288 bytes/sec], 2865556332 bytes transferred using HTTP compression in 4754 files, ratio 15%, 1.0 requests per connection
+(69 errors, 26 warnings, 0 messages)
